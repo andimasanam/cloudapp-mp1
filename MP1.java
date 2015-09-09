@@ -53,7 +53,11 @@ public class MP1 {
         String[] ret = new String[20];
        
         //TODO
-
+        String[] result = ret.split("\\s");
+        String[] toLowerCase(result);
+        boolean removeAll(Collection<stopWordsArray> c);
+        public static <T extends Comparable<result super T>> void sort(List<result> list)
+        
         return ret;
     }
 
